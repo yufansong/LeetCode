@@ -7,6 +7,8 @@ using namespace std;
 pay attention to set
 set.count(x): return the number of x in set
 Must need to find the set, because the n maybe not in cycle
+
+You can use Floyd algorithm, it is amazing
 */
 class Solution {
 public:
