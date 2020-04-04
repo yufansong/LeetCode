@@ -18,4 +18,4 @@ public:
                 swap(nums[++zero],nums[i++]);
         }
     }
-};
+}; 
