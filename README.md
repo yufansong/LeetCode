@@ -25,3 +25,12 @@ This project will record my code during learning LeetCode.
     * 字符集范围
     * 如果没有解怎么办
     * 如果有多个解，题目是否保证只有一个解,返回解的顺序
+
+# 查找
+* 查找有无
+    * 元素是否存在，set
+* 查找对应关系
+    * 出现了几次，map
+* 操作
+    * insert/find/erase/change(map)
+    * 349,
