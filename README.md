@@ -42,6 +42,9 @@ This project will record my code during learning LeetCode.
 * 不同实现方式
     - map和set底层实现是平衡二叉树
     - unordered_map和unordered_set的底层实现为哈希表
+* 索引
+    - 从0开始，还是从1开始
+    - 1
 
     
 
