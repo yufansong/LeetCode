@@ -35,7 +35,7 @@ This project will record my code during learning LeetCode.
     - 出现了几次，map
 * 操作
     - insert/find/erase/change(map)/make_pair
-    - 349,350,242,202,290.205,451
+    - 349,350,242,202,290,205,451
 * 数据的顺序性
     - max,min/netx,before/floor,ceil/rank/select
     - 哈希表缺失了这些优势
