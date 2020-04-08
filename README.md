@@ -52,5 +52,5 @@ This project will record my code during learning LeetCode.
 
 # 链表
 
-* 206
+* 206, 92
 
