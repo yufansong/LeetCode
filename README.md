@@ -50,5 +50,7 @@ This project will record my code during learning LeetCode.
     - 219,220
     - 如果出现了int溢出的，就用long long，一般面试题很少会考整型溢出
 
-    
+# 链表
+
+* 206
 
