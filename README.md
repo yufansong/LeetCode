@@ -47,7 +47,8 @@ This project will record my code during learning LeetCode.
     - 1,15,18,16
     - 454,447,149
     - 点坐标范围，点坐标表实(整数/浮点数/浮点误差)
-    - 219
+    - 219,220
+    - 如果出现了int溢出的，就用long long，一般面试题很少会考整型溢出
 
     
 
