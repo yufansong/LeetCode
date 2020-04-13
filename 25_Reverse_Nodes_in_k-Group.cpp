@@ -14,22 +14,20 @@ public:
     ListNode *reverseKGroup(ListNode *head, int k)
     {
         int count = 0;
-        ListNode *dummyhead = new ListNode(0), *cur = head, *pre = dummyhead;
-        pre = dummyhead;
-        pre->next = NULL;
+        ListNode *cur = head, *pre = NULL, *next;
 
         while (count < k && cur != NULL)
         {
-            dummyhead = cur->next;
-            cur->next = pre->next;
-            pre->next = cur;
-            cur = dummyhead;
+            next = cur->next;
+            cur->next = pre;
+            pre = cur;
+            cur = next;
             count++;
         }
         if (cur != NULL)
             head->next = reverseKGroup(cur, count);
         if (k != count)
-            return reverseKGroup(pre->next, count);
-        return pre->next;
+            return reverseKGroup(pre, count);
+        return pre;
     }
 };
