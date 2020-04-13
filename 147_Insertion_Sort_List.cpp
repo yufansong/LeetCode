@@ -13,12 +13,11 @@ class Solution {
 public:
     ListNode* insertionSortList(ListNode* head) {
         ListNode * dummyhead = new ListNode(0);
-        // dummyhead->next = head;
         ListNode * p = head;
         while(p != NULL){
             ListNode *next = p->next;
             ListNode *cur = dummyhead;
-            while(cur->next && cur->val < p->val)
+            while(cur->next && cur->next->val < p->val)
                 cur = cur->next;
             p->next = cur->next;
             cur->next = p;
