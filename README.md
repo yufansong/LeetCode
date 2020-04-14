@@ -60,6 +60,9 @@ This project will record my code during learning LeetCode.
     - 24,25,147,148
 * 删除节点
     - 237
+* 双指针
+    - n从0还是1计算，n不合法，大于链表长度怎么处理
+    - 19
 
     
 
