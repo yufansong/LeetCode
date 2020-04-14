@@ -62,7 +62,7 @@ This project will record my code during learning LeetCode.
     - 237
 * 双指针
     - n从0还是1计算，n不合法，大于链表长度怎么处理
-    - 19
+    - 19, 61, 143, 243
 
     
 
