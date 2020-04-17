@@ -1,68 +1,100 @@
-# LeetCode
-This project will record my code during learning LeetCode.
+This project will record my code for code interview.
 
-# 数组
+* [LeetCode](#1)
 
-* 排序
-    - 选择排序，插入排序，归并排序，快速排序 
-* 查找
-    - 二分查找
-    - 循环不变量，变量的含义
-    - 283,27,26,80
-    - 如何定义删除，从数组中删除，还是放在数组末尾
-    - 剩余元素的排列是否需要保证原有的相对顺序
-    - 是否有空间复杂度的要求O(1)
-* 数据结构
-    - 栈，队列，堆
-* 双索引(三路快排)
-    - 75,215
-* 指针对撞
-    - 167,125,344,345,11
-    - 如果有解?如果多个解?
-* 滑动窗口
-    - 209,3,438,76
-    - 什么叫子数组
-    - 字符集?字母+数字?ASCII?大小写敏感？
-    - 字符集范围
-    - 如果没有解怎么办
-    - 如果有多个解，题目是否保证只有一个解,返回解的顺序
+* [30 Challenge](#2)
 
-# 查找
+* [Jianzhi offer](#3)
 
-* 查找有无
-    - 元素是否存在，set
-* 查找对应关系
-    - 出现了几次，map
-* 操作
-    - insert/find/erase/change(map)/make_pair
-    - 349,350,242,202,290,205,451
-* 数据的顺序性
-    - max,min/netx,before/floor,ceil/rank/select
-    - 哈希表缺失了这些优势
-* 不同实现方式
-    - map和set底层实现是平衡二叉树
-    - unordered_map和unordered_set的底层实现为哈希表
-* 索引
-    - 从0开始，还是从1开始
-    - 1,15,18,16
-    - 454,447,149
-    - 点坐标范围，点坐标表实(整数/浮点数/浮点误差)
-    - 219,220
-    - 如果出现了int溢出的，就用long long，一般面试题很少会考整型溢出
+<h1  id="1">LeetCode</h2>
 
-# 链表
+| Num   | Title | Difficulty | Category |
+|-------|-------|-------|----------|
+| 3 | Longest Substring Without Repeating Characters | Medium |  array  |
+| 11 | Container With Most Water | Medium |  array  |
+| 26 | Remove Duplicates | Easy |  array  |
+| 27 | Remove Element | Easy |  array  |
+| 75 | Sort Colors | Medium |  array  |
+| 76 | Minimum Window Substring | Hard |  array  |
+| 80 | Remove Duplicates II | Medium |  array  |
+| 88 | Merge_Sorted_Array | Easy |  array  |
+| 125 | Valid Palindrome | Easy |  array  |
+| 167 | Two Sum II Input array is sorted | Easy |  array  |
+| 209 | Minimum Size Subarray Sum | Medium |  array  |
+| 215 | Kth Largest Element in an Array | Medium |  array  |
+| 217 | Contains_Duplicate | Easy |  array  |
+| 283 | Move Zeroes | Easy |  array  |
+| 344 | Reverse String | Easy |  array  |
+| 345 | Reverse Vowels of a String | Easy |  array  |
+| 438 | Find All Anagrams in a String | Medium |  array  |
+|  |  |  |    |
+| 1 | Two Sum | Easy |  map  |
+| 15 | 3Sum | Medium |  map  |
+| 16 | 3Sum Closest | Medium |  map  |
+| 18 | 4Sum | Medium |  map  |
+| 149 | Max Points on a Line | Hard |  map  |
+| 202 | Happy Number | None |  map  |
+| 205 | Isomorphic Strings | Easy |  map  |
+| 219 | Contains Duplicate II | Easy |  map  |
+| 220 | Contains Duplicate III | Medium |  map  |
+| 242 | Valid Anagram | Easy |  map  |
+| 290 | Word Pattern | Easy |  map  |
+| 349 | Intersection of Two Arrays | Easy |  map  |
+| 350 | Intersection of Two Arrays II | Easy |  map  |
+| 447 | Number of Boomerangs | Easy |  map  |
+| 451 | Sort Characters By Frequency | Medium |  map  |
+| 454 | 4Sum II | Medium |  map  |
+|  |  |  |    |
+| 2 | Add Two Numbers | Medium |  Link  |
+| 19 | Remove Nth Node From End of List | Medium |  Link  |
+| 21 | Merge Two Sorted Lists | Easy |  Link  |
+| 24 | Swap Nodes in Pairs | Medium |  Link  |
+| 25 | Reverse Nodes in k-Group | Hard |  Link  |
+| 82 | Remove Duplicates from Sorted List II | Medium |  Link  |
+| 83 | Remove Duplicates from Sorted List | Easy |  Link  |
+| 86 | Partition List | Medium |  Link  |
+| 92 | Reverse Linked List II | Medium |  Link  |
+| 147 | Insertion Sort List | Medium |  Link  |
+| 148 | Sort List | Medium |  Link  |
+| 203 | Remove Linked List Elements | Easy |  Link  |
+| 206 | Reverse Linked List | Easy |  Link  |
+| 237 | Delete Node in a Linked List | Easy |  Link  |
+| 328 | Odd Even Linked List | Medium |  Link  |
+| 445 | Add Two Numbers II | Medium |  Link  |
 
-* 206, 92
-* 83, 86, 328, 2, 445
-* 虚拟头节点
-    - 203, 82, 21
-    - 在链表题里面如果没有申明，只能对节点进行操作，不能修改节点的值
-    - 24,25,147,148
-* 删除节点
-    - 237
-* 双指针
-    - n从0还是1计算，n不合法，大于链表长度怎么处理
-    - 19, 61, 143, 243
+<h1  id="2">30 Challenge</h2>
+| Day   | Num   | Title  | Difficulty |
+|-------|-------|-------|-------|
+| 1 | 136 | Single Number |   Easy    |
+| 2 | 202 | Happy Number |   None    |
+| 3 | 53 | Maximum Subarray |   Easy    |
+| 4 | 283 | Move Zeroes |   Easy    |
+| 5 | 122 | Best Time to Buy and Sell Stock II |   Easy    |
+| 6 | 49 | Group Anagrams |   Medium    |
+| 7 | None | Counting Elements |   None    |
+| 8 | 876 | Middle of the Linked List |   Easy    |
+| 9 | 844 | Backspace String Compare |   Easy    |
+| 10 | 155 | Min Stack |   Easy    |
+| 11 | 543 | Diameter of Binary Tree |   Easy    |
+| 12 | 1046 | Last Stone Weight |   Easy    |
+| 13 | 525 | Contiguous Array |   Counting Elements    |
+| 14 | None | Perform String Shifts |  None     |
+| 15 |  |  |       |
+| 16 |  |  |       |
+| 17 |  |  |       |
+| 18 |  |  |       |
+| 19 |  |  |       |
+| 20 |  |  |       |
+| 21 |  |  |       |
+| 22 |  |  |       |
+| 23 |  |  |       |
+| 24 |  |  |       |
+| 25 |  |  |       |
+| 26 |  |  |       |
+| 27 |  |  |       |
+| 28 |  |  |       |
+| 29 |  |  |       |
+| 30 |  |  |       |
 
-    
+<h1  id="3">Jianzhi offer</h2>
 
