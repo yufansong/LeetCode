@@ -63,6 +63,7 @@ This project will record my code for code interview.
 | 445 | Add Two Numbers II | Medium |  Link  |
 
 <h1  id="2">30 Challenge</h2>
+
 | Day   | Num   | Title  | Difficulty |
 |-------|-------|-------|-------|
 | 1 | 136 | Single Number |   Easy    |
