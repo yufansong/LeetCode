@@ -78,7 +78,7 @@ This project will record my code for code interview.
 | 10 | 155 | Min Stack |   Easy    |
 | 11 | 543 | Diameter of Binary Tree |   Easy    |
 | 12 | 1046 | Last Stone Weight |   Easy    |
-| 13 | 525 | Contiguous Array |   Counting Elements    |
+| 13 | 525 | Contiguous Array |   Medium    |
 | 14 | None | Perform String Shifts |  None     |
 | 15 |  |  |       |
 | 16 |  |  |       |
