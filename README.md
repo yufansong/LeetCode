@@ -1,4 +1,4 @@
-This project will record my code for code interview.
+This project will record my code for code interview. 
 
 * [LeetCode](#1)
 
@@ -81,7 +81,7 @@ This project will record my code for code interview.
 | 13 | 525 | Contiguous Array |   Medium    |
 | 14 | None | Perform String Shifts |  None     |
 | 15 | 238 | Product of Array Except Self |   Medium    |
-| 16 |  |  |       |
+| 16 | 678 | Valid Parenthesis String |   Medium    |
 | 17 |  |  |       |
 | 18 |  |  |       |
 | 19 |  |  |       |
@@ -98,4 +98,3 @@ This project will record my code for code interview.
 | 30 |  |  |       |
 
 <h1  id="3">Jianzhi offer</h2>
-
