@@ -86,8 +86,8 @@ This project will record my code for code interview.
 | 18 | 64 | Minimum Path Sum |   Medium    |
 | 19 | 33 | Search in Rotated Sorted Array |   Medium    |
 | 20 | 1008 | Construct Binary Search Tree from Preorder Traversal |   Medium    |
-| 21 |  | Lastmost Colume |   Premium   |
-| 22 |  |  |       |
+| 21 | None | Lastmost Colume |   Premium   |
+| 22 | 560 | Subarray Sum Equals K |   Medium    |
 | 23 |  |  |       |
 | 24 |  |  |       |
 | 25 |  |  |       |
