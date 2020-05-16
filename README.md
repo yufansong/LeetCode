@@ -83,7 +83,7 @@ This project will record my code for code interview.
 | 15 | 238 | Product of Array Except Self |   Medium    |
 | 16 | 678 | Valid Parenthesis String |   Medium    |
 | 17 | 200 | Number of Islands |   Medium    |
-| 18 |  |  |       |
+| 18 |64  | Minimum Path Sum |   Medium    |
 | 19 |  |  |       |
 | 20 |  |  |       |
 | 21 |  |  |       |
