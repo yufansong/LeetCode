@@ -92,7 +92,7 @@ This project will record my code for code interview.
 | 24 | 146 | LRU Cache |   Medium    |
 | 25 | 55 | Jump Game |   Medium    |
 | 26 | 1143 | Longest Common Subsequence |   Medium    |
-| 27 |  |  |       |
+| 27 | 221 | Maximal Square |    Medium   |
 | 28 |  |  |       |
 | 29 |  |  |       |
 | 30 |  |  |       |
