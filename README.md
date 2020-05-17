@@ -90,7 +90,7 @@ This project will record my code for code interview.
 | 22 | 560 | Subarray Sum Equals K |   Medium    |
 | 23 | 201 | Bitwise AND of Numbers Range |   Medium    |
 | 24 | 146 | LRU Cache |   Medium    |
-| 25 |  |  |       |
+| 25 | 55 | Jump Game |   Medium    |
 | 26 |  |  |       |
 | 27 |  |  |       |
 | 28 |  |  |       |
