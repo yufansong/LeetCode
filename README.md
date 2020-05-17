@@ -91,7 +91,7 @@ This project will record my code for code interview.
 | 23 | 201 | Bitwise AND of Numbers Range |   Medium    |
 | 24 | 146 | LRU Cache |   Medium    |
 | 25 | 55 | Jump Game |   Medium    |
-| 26 |  |  |       |
+| 26 | 1143 | Longest Common Subsequence |   Medium    |
 | 27 |  |  |       |
 | 28 |  |  |       |
 | 29 |  |  |       |
