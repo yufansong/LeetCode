@@ -6,7 +6,9 @@ This project will record my code for code interview.
 
 * [Jianzhi offer](#3)
 
-<h1  id="1">LeetCode</h2>
+* [May LeetCoding Challenge](#4)
+
+<h1  id="1">🚩LeetCode</h2>
 
 | Num   | Title | Difficulty | Category |
 |-------|-------|-------|----------|
@@ -62,7 +64,7 @@ This project will record my code for code interview.
 | 328 | Odd Even Linked List | Medium |  Link  |
 | 445 | Add Two Numbers II | Medium |  Link  |
 
-<h1  id="2">30 Challenge</h2>
+<h1  id="2">🚩30 Challenge ( Finished)</h2>
 
 | Day   | Num   | Title  | Difficulty |
 |-------|-------|-------|-------|
@@ -93,8 +95,45 @@ This project will record my code for code interview.
 | 25 | 55 | Jump Game |   Medium    |
 | 26 | 1143 | Longest Common Subsequence |   Medium    |
 | 27 | 221 | Maximal Square |    Medium   |
-| 28 |  |  |       |
+| 28 | None | First Unique Number |   Premium    |
 | 29 | 124 | Binary Tree Maximum Path Sum |   Hard    |
-| 30 |  |  |       |
+| 30 | None | Check if a String Is a Valid |   Premium    |
 
-<h1  id="3">Jianzhi offer</h2>
+<h1  id="3">🚩Jianzhi offer</h2>
+| Num   | Title | Difficulty | Category |
+|-------|-------|-------|----------|
+|   1   |   None   |   None    |     None     |
+
+<h1  id="4">🚩May LeetCoding Challenge</h2>
+| Num   | Title | Difficulty | Category |
+|-------|-------|-------|----------|
+|   1   |   None   |   None    |     None     |
+|   2   |       |       |          |
+|   3   |       |       |          |
+|   4   |       |       |          |
+|   5   |       |       |          |
+|   6   |       |       |          |
+|   7   |       |       |          |
+|   8   |       |       |          |
+|   9   |       |       |          |
+|   10  |       |       |          |
+|   11  |       |       |          |
+|   12  |       |       |          |
+|   13  |       |       |          |
+|   14  |       |       |          |
+|   15  |       |       |          |
+|   16  |       |       |          |
+|   17  |       |       |          |
+|   18  |       |       |          |
+|   19  |       |       |          |
+|   20  |       |       |          |
+|   21  |       |       |          |
+|   22  |       |       |          |
+|   23  |       |       |          |
+|   24  |       |       |          |
+|   25  |       |       |          |
+|   26  |       |       |          |
+|   27  |       |       |          |
+|   28  |       |       |          |
+|   29  |       |       |          |
+|   30  |       |       |          |
