@@ -88,7 +88,7 @@ This project will record my code for code interview.
 | 20 | 1008 | Construct Binary Search Tree from Preorder Traversal |   Medium    |
 | 21 | None | Lastmost Colume |   Premium   |
 | 22 | 560 | Subarray Sum Equals K |   Medium    |
-| 23 |  |  |       |
+| 23 | 201 | Bitwise AND of Numbers Range |   Medium    |
 | 24 |  |  |       |
 | 25 |  |  |       |
 | 26 |  |  |       |
