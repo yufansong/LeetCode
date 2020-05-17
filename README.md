@@ -94,7 +94,7 @@ This project will record my code for code interview.
 | 26 | 1143 | Longest Common Subsequence |   Medium    |
 | 27 | 221 | Maximal Square |    Medium   |
 | 28 |  |  |       |
-| 29 |  |  |       |
+| 29 | 124 | Binary Tree Maximum Path Sum |   Hard    |
 | 30 |  |  |       |
 
 <h1  id="3">Jianzhi offer</h2>
