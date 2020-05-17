@@ -89,7 +89,7 @@ This project will record my code for code interview.
 | 21 | None | Lastmost Colume |   Premium   |
 | 22 | 560 | Subarray Sum Equals K |   Medium    |
 | 23 | 201 | Bitwise AND of Numbers Range |   Medium    |
-| 24 |  |  |       |
+| 24 | 146 | LRU Cache |   Medium    |
 | 25 |  |  |       |
 | 26 |  |  |       |
 | 27 |  |  |       |
