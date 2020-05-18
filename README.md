@@ -100,12 +100,14 @@ This project will record my code for code interview.
 | 30 | None | Check if a String Is a Valid |   Premium    |
 
 <h1  id="3">🚩Jianzhi offer</h2>
+
 | Num   | Title | Difficulty | Category |
 |-------|-------|-------|----------|
 |   1   |   None   |   None    |     None     |
 
 <h1  id="4">🚩May LeetCoding Challenge</h2>
-| Num   | Title | Difficulty | Category |
+
+| Day   | Num   | Title  | Difficulty |
 |-------|-------|-------|----------|
 |   1   |   None   |   None    |     None     |
 |   2   |       |       |          |
@@ -123,7 +125,7 @@ This project will record my code for code interview.
 |   14  |       |       |          |
 |   15  |       |       |          |
 |   16  |       |       |          |
-|   17  |       |       |          |
+|   17  |   438    |   Find All Anagrams in a String    |     Medium     |
 |   18  |       |       |          |
 |   19  |       |       |          |
 |   20  |       |       |          |
