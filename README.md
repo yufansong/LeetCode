@@ -126,7 +126,7 @@ This project will record my code for code interview.
 |   15  |       |       |          |
 |   16  |   328    |     Odd Even Linked List    |    Medium      |
 |   17  |   438    |   Find All Anagrams in a String    |     Medium     |
-|   18  |       |       |          |
+|   18  |   567    |   567. Permutation in String    |     Medium     |
 |   19  |   901    |     Online Stock Span    |    Medium      |
 |   20  |   230    |   Kth Smallest Element in a BST    |    Medium      |
 |   21  |   1277    |   Count Square Submatrices with All Ones    |    Medium      |
