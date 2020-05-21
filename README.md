@@ -128,7 +128,7 @@ This project will record my code for code interview.
 |   17  |   438    |   Find All Anagrams in a String    |     Medium     |
 |   18  |       |       |          |
 |   19  |       |       |          |
-|   20  |       |       |          |
+|   20  |   230    |   Kth Smallest Element in a BST    |    Medium      |
 |   21  |   1277    |   Count Square Submatrices with All Ones    |    Medium      |
 |   22  |       |       |          |
 |   23  |       |       |          |
