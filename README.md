@@ -63,6 +63,9 @@ This project will record my code for code interview.
 | 237 | Delete Node in a Linked List | Easy |  Link  |
 | 328 | Odd Even Linked List | Medium |  Link  |
 | 445 | Add Two Numbers II | Medium |  Link  |
+|  |  |  |    |
+| 20 | Valid Parentheses | Easy |  Stack  |
+| 150 | Evaluate Reverse Polish Notation | Medium |  Stack  |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
