@@ -68,6 +68,8 @@ This project will record my code for code interview.
 | 150 | Evaluate Reverse Polish Notation | Medium |  Stack  |
 | 71 | Simplify Path | Medium | Stack |
 | 144 | Binary Tree Preorder Traversal | Medium | Stack |
+| 94 | Binary Tree Inorder Traversal | Medium | Stack |
+| 145 | Binary Tree Postorder Traversal | Hard | Stack |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
