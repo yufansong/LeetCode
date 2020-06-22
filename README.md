@@ -70,7 +70,7 @@ This project will record my code for code interview.
 | 144 | Binary Tree Preorder Traversal | Medium | Stack |
 | 94 | Binary Tree Inorder Traversal | Medium | Stack |
 | 145 | Binary Tree Postorder Traversal | Hard | Stack |
-
+| 341 | Flatten Nested List Iterator | Medium | Stack |
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
 | Day   | Num   | Title  | Difficulty |
