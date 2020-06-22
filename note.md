@@ -76,3 +76,15 @@ This project will record my code during learning LeetCode.
     - 多余的/
 
     
+
+# STL 
+
+* vector
+    - vector.size()
+    - x = vector[i]
+* map 
+* stack
+    - size = stack.size()
+    - top = stack.top()
+    - stack.push(x)
+    - stack.pop()
