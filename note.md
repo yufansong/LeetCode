@@ -67,6 +67,7 @@ This project will record my code during learning LeetCode.
 # 栈
 
 * 20, 150, 71
+* 144, 94 145, 341
 * 种类
     - 运算的种类（+ - * /）
     - 字符串表达的数字种类（整数） 
@@ -74,6 +75,7 @@ This project will record my code during learning LeetCode.
     - 路径是否合法
     - 不能回退的情况
     - 多余的/
+* 栈和递归
 
     
 
@@ -82,6 +84,8 @@ This project will record my code during learning LeetCode.
 * vector
     - vector.size()
     - x = vector[i]
+    - vector.push_back(x)
+    - dest.insert(dest.end(), src.begin(), src.end());
 * map 
 * stack
     - size = stack.size()

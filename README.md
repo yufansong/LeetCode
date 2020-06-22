@@ -67,6 +67,7 @@ This project will record my code for code interview.
 | 20 | Valid Parentheses | Easy |  Stack  |
 | 150 | Evaluate Reverse Polish Notation | Medium |  Stack  |
 | 71 | Simplify Path | Medium | Stack |
+| 144 | Binary Tree Preorder Traversal | Medium | Stack |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
