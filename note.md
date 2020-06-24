@@ -77,6 +77,13 @@ This project will record my code during learning LeetCode.
     - 多余的/
 * 栈和递归
 
+# 队列
+
+* 队列的基本与应用-广度优先遍历
+    - 树，层序遍历
+    - 图，无权图的最短路径
+* 102
+
     
 
 # STL 
@@ -92,3 +99,14 @@ This project will record my code during learning LeetCode.
     - top = stack.top()
     - stack.push(x)
     - stack.pop()
+
+* pair 
+    - make_pair(a,b)
+    - a = pair.first()
+    - b = pair.second()
+* queue
+    - queue<int> q
+    - q.push(x)
+    - q.empty()
+    - x = q.front()
+    - q.pop()
