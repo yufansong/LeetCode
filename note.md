@@ -87,6 +87,11 @@ This project will record my code during learning LeetCode.
     - 102, 107
 * 图
     - 279,127,126
+* 优先队列
+    - 底层实现用堆
+    - 对于堆的底层实现，最好可以白板编程
+    - priority_queue
+    - 347,23
 
     
 
@@ -116,7 +121,10 @@ This project will record my code during learning LeetCode.
     - q.empty()
     - x = q.front()
     - q.pop()
-
+* priority_queue
+    - priority_queue<int> q   默认最大堆
+    - priority_queue<int,vector<int>,greater<int>>  最小堆，vector参数为底层实现
+    - priority_queue<int,vector<int>,function<bool(int,int)>> q(myCmp)
 * set
     - unordered_set
     - set.count(element) 

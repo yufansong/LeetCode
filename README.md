@@ -76,6 +76,8 @@ This project will record my code for code interview.
 | 199 | Binary Tree Right Side View | Medium | Queue |
 | 279 | Perfect Squares | Medium | Queue |
 | 127 | Word Ladder | Medium | Queue | 
+| 347 | Top K Frequent Elements | Medium | Queue |
+| 23 | Merge k Sorted Lists | Medium | Queue |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
