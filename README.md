@@ -78,6 +78,8 @@ This project will record my code for code interview.
 | 127 | Word Ladder | Medium | Queue | 
 | 347 | Top K Frequent Elements | Medium | Queue |
 | 23 | Merge k Sorted Lists | Medium | Queue |
+|  |  |  |    |
+| 104 | Maximum Depth of Binary Tree | Easy | Tree |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
