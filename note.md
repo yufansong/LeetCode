@@ -76,13 +76,14 @@ This project will record my code during learning LeetCode.
     - 不能回退的情况
     - 多余的/
 * 栈和递归
+* 注意经常判断栈是否为空
 
 # 队列
 
 * 队列的基本与应用-广度优先遍历
     - 树，层序遍历
     - 图，无权图的最短路径
-* 102
+* 102, 107
 
     
 
@@ -93,6 +94,7 @@ This project will record my code during learning LeetCode.
     - x = vector[i]
     - vector.push_back(x)
     - dest.insert(dest.end(), src.begin(), src.end());
+    - dest.insert(position, val);
 * map 
 * stack
     - size = stack.size()
