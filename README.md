@@ -82,6 +82,7 @@ This project will record my code for code interview.
 | 104 | Maximum Depth of Binary Tree | Easy | Tree |
 | 111 | Minimum Depth of Binary Tree | Easy | Tree |
 | 226 | Invert Binary Tree | Easy | Tree |
+| 100 | Same Tree | Easy | Tree |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
