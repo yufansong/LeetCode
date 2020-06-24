@@ -74,6 +74,7 @@ This project will record my code for code interview.
 |  |  |  |    |
 | 102 | Binary Tree Level Order Traversal | Medium | Queue |
 | 199 | Binary Tree Right Side View | Medium | Queue |
+| 279 | Perfect Squares | Medium | Queue
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
