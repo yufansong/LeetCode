@@ -95,6 +95,7 @@ This project will record my code during learning LeetCode.
     - vector.push_back(x)
     - dest.insert(dest.end(), src.begin(), src.end());
     - dest.insert(position, val);
+    - end = vector.end()-1 = vector.back()
 * map 
 * stack
     - size = stack.size()

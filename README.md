@@ -72,7 +72,8 @@ This project will record my code for code interview.
 | 145 | Binary Tree Postorder Traversal | Hard | Stack |
 | 341 | Flatten Nested List Iterator | Medium | Stack |
 |  |  |  |    |
-| 102 | Binary Tree Level Order Traversal | Medium | Queue
+| 102 | Binary Tree Level Order Traversal | Medium | Queue |
+| 199 | Binary Tree Right Side View | Medium | Queue |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
