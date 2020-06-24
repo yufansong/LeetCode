@@ -86,7 +86,7 @@ This project will record my code during learning LeetCode.
 * 树
     - 102, 107
 * 图
-    - 279
+    - 279,127,126
 
     
 
@@ -116,3 +116,11 @@ This project will record my code during learning LeetCode.
     - q.empty()
     - x = q.front()
     - q.pop()
+
+* set
+    - unordered_set
+    - set.count(element) 
+    - unordered_set<string> set(vector.begin(),vector.end())
+    - set.erase(element)
+* string
+    - string.length()
