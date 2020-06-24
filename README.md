@@ -85,6 +85,7 @@ This project will record my code for code interview.
 | 100 | Same Tree | Easy | Tree |
 | 101 | Symmetric Tree | Easy | Tree |
 | 222 | Count Complete Tree Nodes | Medium | Tree |
+| 110 | Balanced Binary Tree | Easy | Tree |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
