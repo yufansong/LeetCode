@@ -80,6 +80,7 @@ This project will record my code for code interview.
 | 23 | Merge k Sorted Lists | Medium | Queue |
 |  |  |  |    |
 | 104 | Maximum Depth of Binary Tree | Easy | Tree |
+| 111 | Minimum Depth of Binary Tree | Easy | Tree |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
