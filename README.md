@@ -91,6 +91,7 @@ This project will record my code for code interview.
 | 257 | Binary Tree Paths | Easy | Tree |
 | 113 | Path Sum II | Medium | Tree |
 | 437 | Path Sum III | Medium | Tree |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | Tree |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
