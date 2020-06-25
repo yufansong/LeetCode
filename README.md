@@ -94,6 +94,8 @@ This project will record my code for code interview.
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | Tree |
 | 98 | Validate Binary Search Tree | Medium | Tree |
 | 450 | Delete Node in a BST | Medium | Tree |
+| 230 | Kth Smallest Element in a BST | Medium | Tree |
+| 236 | Lowest Common Ancestor of a Binary Tree | Mediu | Tree |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
