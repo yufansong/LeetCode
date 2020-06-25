@@ -96,7 +96,7 @@ This project will record my code during learning LeetCode.
 # 二叉树和递归
 
     - 226,100,101,222,110
-    - 注意终止条件 112
+    - 注意终止条件 112, 257,113,129
 
     
 
@@ -109,6 +109,8 @@ This project will record my code during learning LeetCode.
     - dest.insert(dest.end(), src.begin(), src.end());
     - dest.insert(position, val);
     - end = vector.end()-1 = vector.back()
+    - vector<int> (n,x) 初始化vector为n个x
+    - vector<int> {x1,x2,x3}
 * map 
 * stack
     - size = stack.size()

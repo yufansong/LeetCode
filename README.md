@@ -88,6 +88,8 @@ This project will record my code for code interview.
 | 110 | Balanced Binary Tree | Easy | Tree |
 | 112 | Path Sum | Easy | Tree |
 | 404 | Sum of Left Leaves | Easy | Tree |
+| 257 | Binary Tree Paths | Easy | Tree |
+| 113 | Path Sum II | Medium | Tree |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
