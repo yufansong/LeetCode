@@ -35,7 +35,5 @@ public:
         }
         else
             return pivot;
-
-        
     }
 };
