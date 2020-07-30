@@ -73,6 +73,7 @@ This project will record my code for code interview.
 | 341 | Flatten Nested List Iterator | Medium | Stack |
 |  |  |  |    |
 | 102 | Binary Tree Level Order Traversal | Medium | Queue |
+| 103 | Binary Tree Zigzag Level Order Traversal | Medium | Queue |
 | 199 | Binary Tree Right Side View | Medium | Queue |
 | 279 | Perfect Squares | Medium | Queue |
 | 127 | Word Ladder | Medium | Queue | 
@@ -96,7 +97,8 @@ This project will record my code for code interview.
 | 450 | Delete Node in a BST | Medium | Tree |
 | 230 | Kth Smallest Element in a BST | Medium | Tree |
 | 236 | Lowest Common Ancestor of a Binary Tree | Mediu | Tree |
-
+|  |  |  |    |
+| 17 | Letter Combinations of a Phone Number | Medium | Recursion
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
 | Day   | Num   | Title  | Difficulty |

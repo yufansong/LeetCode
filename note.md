@@ -96,15 +96,15 @@ This project will record my code during learning LeetCode.
 
 # 二叉树和递归
 
-    - 226,100,101,222,110
-    - 注意终止条件 112, 257,113,129,437
-    - 二分搜索树 
-        * insert find delete 
-        * 最大值最小值 minimum maximum
-        * 前驱 后继 successor predecessor
-        * 上届 下届 floor ceil
-        * 某个元素的排名 rank
-        * 寻找第k大小元素 select
-        * 235,98,450,108,230,236
+* 226, 100, 101, 222, 110
+* 注意终止条件 112, 257, 113, 129, 437
+* 二分搜索树 
+    - insert find delete 
+    - 最大值最小值 minimum maximum
+    - 前驱 后继 successor predecessor
+    - 上届 下届 floor ceil
+    - 某个元素的排名 rank
+    - 寻找第k大小元素 select
+    - 235,98,450,108,230,236
 
-    
+# 递归和回溯

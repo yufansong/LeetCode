@@ -11,9 +11,11 @@
     - vector<int> {x1,x2,x3}
     - vector.erase(vector.begin()+i)
     - reverse(vector.begin(),vector.end())
-    - sort(vector.begin(),sort.end())
+    - sort(vector.begin(),vector.end())
     - vector<int> vector_name(arr, arr+length)
 * map 
+    - map.find(x) == m.end()
+    - for (map< >::iterator it=m.begin();it!=m.end();it++) { (*it)}
 * stack
     - size = stack.size()
     - top = stack.top()
