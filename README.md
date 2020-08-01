@@ -115,7 +115,8 @@ This project will record my code for code interview.
 | 130 | Surrounded Regions | Medium | Recursion |
 | 417 | Pacific Atlantic Water Flow | Medium | | Recursion |
 | 51 | N-Queens | Hard | Recursion |
-| 52. N-Queens II
+| 52. N-Queens II | Hard | Recursion |
+| 37
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
