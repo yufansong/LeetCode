@@ -1,4 +1,6 @@
 #include<vector>
+#include<string>
+#include<bitset>
 using namespace std;
 
 class Solution {
