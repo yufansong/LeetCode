@@ -105,7 +105,7 @@ This project will record my code for code interview.
 | 47 | Permutations II | Medium | Recursion |
 | 77 | Combinations | Medium | Recursion |
 | 39 | Combination Sum | Medium | Recursion |
-| 40
+| 40 | Combination Sum II | Medium | Recursion |
 | 216
 | 78
 | 90
