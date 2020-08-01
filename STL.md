@@ -4,6 +4,7 @@
     - vector.size()
     - x = vector[i]
     - vector.push_back(x)
+    - vector.pop_back()
     - dest.insert(dest.end(), src.begin(), src.end());
     - dest.insert(position, val);
     - end = vector.end()-1 = vector.back()

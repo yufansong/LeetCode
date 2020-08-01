@@ -98,7 +98,11 @@ This project will record my code for code interview.
 | 230 | Kth Smallest Element in a BST | Medium | Tree |
 | 236 | Lowest Common Ancestor of a Binary Tree | Mediu | Tree |
 |  |  |  |    |
-| 17 | Letter Combinations of a Phone Number | Medium | Recursion
+| 17 | Letter Combinations of a Phone Number | Medium | Recursion |
+| 93 | Restore IP Addresses | Medium | Recursion |
+| 131 | Palindrome Partitioning | Medium | Recursion |
+| 46 | Permutations | Medium | Recursion |
+
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
 | Day   | Num   | Title  | Difficulty |
