@@ -103,8 +103,13 @@ This project will record my code for code interview.
 | 131 | Palindrome Partitioning | Medium | Recursion |
 | 46 | Permutations | Medium | Recursion |
 | 47 | Permutations II | Medium | Recursion |
-| 77 | Combinations | Mediumm | Recursion |
-
+| 77 | Combinations | Medium | Recursion |
+| 39 | Combination Sum | Medium | Recursion |
+| 40
+| 216
+| 78
+| 90
+| 401 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
 | Day   | Num   | Title  | Difficulty |
