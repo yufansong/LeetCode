@@ -109,7 +109,8 @@ This project will record my code for code interview.
 | 216 | Combination Sum III | Medium | Recursion |
 | 78 | Subsets | Medium | Recursion |
 | 90 | Subsets II | Medium | Recursion |
-| 401 
+| 401 | Binary Watch | Easy | Recursion |
+
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
 | Day   | Num   | Title  | Difficulty |
