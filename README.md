@@ -110,6 +110,8 @@ This project will record my code for code interview.
 | 78 | Subsets | Medium | Recursion |
 | 90 | Subsets II | Medium | Recursion |
 | 401 | Binary Watch | Easy | Recursion |
+| 79 | Word Search | Medium | Recursion |
+| 200 | Number of Islands | Medium | Recursion |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
