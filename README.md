@@ -133,6 +133,7 @@ This project will record my code for code interview.
 | | | | |
 | 455 | Assign Cookies | Easy | Greedy |
 | 392 | Is Subsequence | Easy | Greedy |
+| 435 | Non-overlapping Intervals | Medium | Greedy |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
