@@ -122,6 +122,11 @@ This project will record my code for code interview.
 | 120 | Triangle | Medium | Dp |
 | 64 | Minimum Path Sum | Medium | Dp |
 | 343 | Integer Break | Medium | Dp |
+| 279 | | | |
+| 91 | | | |
+| 62 | | | |
+| 63 | | | |
+| 198 | House Robber | Medium | Dp |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
