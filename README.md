@@ -119,6 +119,8 @@ This project will record my code for code interview.
 | 37 | Sudoku Solver | Hard | Recursion |
 |  |  |  |    |
 | 70 | Climbing Stairs | Easy | Dp|
+| 120 | Triangle | Medium | Dp |
+| 64
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
