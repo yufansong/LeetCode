@@ -113,10 +113,12 @@ This project will record my code for code interview.
 | 79 | Word Search | Medium | Recursion |
 | 200 | Number of Islands | Medium | Recursion |
 | 130 | Surrounded Regions | Medium | Recursion |
-| 417 | Pacific Atlantic Water Flow | Medium | | Recursion |
+| 417 | Pacific Atlantic Water Flow | Medium | Recursion |
 | 51 | N-Queens | Hard | Recursion |
 | 52 | N-Queens II | Hard | Recursion |
 | 37 | Sudoku Solver | Hard | Recursion |
+|  |  |  |    |
+| 70 | Climbing Stairs | Easy | Dp|
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
