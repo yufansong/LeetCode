@@ -120,7 +120,8 @@ This project will record my code for code interview.
 |  |  |  |    |
 | 70 | Climbing Stairs | Easy | Dp|
 | 120 | Triangle | Medium | Dp |
-| 64
+| 64 | Minimum Path Sum | Medium | Dp |
+| 343 | Integer Break | Medium | Dp |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
