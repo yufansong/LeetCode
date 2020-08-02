@@ -127,6 +127,12 @@ This project will record my code for code interview.
 | 62 | | | |
 | 63 | | | |
 | 198 | House Robber | Medium | Dp |
+| 213 | | | |
+| 337 | | | |
+| 309 | | | |
+| | | | |
+| 455 | Assign Cookies | Easy | Greedy |
+| 392 | Is Subsequence | Easy | Greedy |
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 

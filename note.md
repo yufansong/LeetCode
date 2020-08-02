@@ -110,3 +110,9 @@ This project will record my code during learning LeetCode.
 # 递归和回溯
 
 # 动态规划
+
+* 重叠子问题，最优子结构
+* 状态的定义和状态的转移
+* 0-1背包问题
+* LIS问题
+* LCS 最短路问题
