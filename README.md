@@ -29,6 +29,7 @@ This project will record my code for code interview.
 | 344 | Reverse String | Easy |  array  |
 | 345 | Reverse Vowels of a String | Easy |  array  |
 | 438 | Find All Anagrams in a String | Medium |  array  |
+| 56 | Merge Intervals |  |  |
 |  |  |  |    |
 | 1 | Two Sum | Easy |  map  |
 | 15 | 3Sum | Medium |  map  |
@@ -122,6 +123,8 @@ This project will record my code for code interview.
 | 51 | N-Queens | Hard | Recursion |
 | 52 | N-Queens II | Hard | Recursion |
 | 37 | Sudoku Solver | Hard | Recursion |
+| 1254 | Number of Closed Islands |  |  |
+
 |  |  |  |    |
 | 70 | Climbing Stairs | Easy | Dp|
 | 120 | Triangle | Medium | Dp |
@@ -183,6 +186,7 @@ This project will record my code for code interview.
 |   1   |   None   |   None    |     None     |
 | 52 | 两个链表的第一个公共节点 | Easy | Link |
 | 61 | 扑克牌中的顺子 | Easy | Array |
+| 42 | 连续子数组的最大和 | Easy | Array |
 
 <h1  id="4">🚩May LeetCoding Challenge</h2>
 
