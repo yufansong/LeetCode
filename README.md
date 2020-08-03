@@ -123,6 +123,7 @@ This project will record my code for code interview.
 | 120 | Triangle | Medium | Dp |
 | 64 | Minimum Path Sum | Medium | Dp |
 | 343 | Integer Break | Medium | Dp |
+| 72 | Edit Distance | Hard | Dp |
 | 279 | | | |
 | 91 | | | |
 | 62 | | | |
