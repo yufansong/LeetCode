@@ -29,6 +29,7 @@ This project will record my code for code interview.
 | 344 | Reverse String | Easy |  array  |
 | 345 | Reverse Vowels of a String | Easy |  array  |
 | 438 | Find All Anagrams in a String | Medium |  array  |
+| 977 | Squares of a Sorted Array | Easy | array |
 | 56 | Merge Intervals |  |  |
 |  |  |  |    |
 | 1 | Two Sum | Easy |  map  |
@@ -67,6 +68,7 @@ This project will record my code for code interview.
 | 61 | Rotate List | | |
 | 143 | Reorder List | | |
 | 141 | Linked List Cycle | Easy | Link |
+| 415 | Add Strings |  |  |
 |  |  |  |    |
 | 20 | Valid Parentheses | Easy |  Stack  |
 | 150 | Evaluate Reverse Polish Notation | Medium |  Stack  |
