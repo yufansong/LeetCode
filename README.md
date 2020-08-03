@@ -182,6 +182,8 @@ This project will record my code for code interview.
 |-------|-------|-------|----------|
 |   1   |   None   |   None    |     None     |
 | 52 | 两个链表的第一个公共节点 | Easy | Link |
+| 61 | 扑克牌中的顺子 | Easy | Array |
+
 <h1  id="4">🚩May LeetCoding Challenge</h2>
 
 | Day   | Num   | Title  | Difficulty |
