@@ -63,6 +63,9 @@ This project will record my code for code interview.
 | 237 | Delete Node in a Linked List | Easy |  Link  |
 | 328 | Odd Even Linked List | Medium |  Link  |
 | 445 | Add Two Numbers II | Medium |  Link  |
+| 61 | Rotate List | | |
+| 143 | Reorder List | | |
+| 141 | Linked List Cycle | Easy | Link |
 |  |  |  |    |
 | 20 | Valid Parentheses | Easy |  Stack  |
 | 150 | Evaluate Reverse Polish Notation | Medium |  Stack  |
@@ -77,6 +80,7 @@ This project will record my code for code interview.
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | Queue |
 | 199 | Binary Tree Right Side View | Medium | Queue |
 | 279 | Perfect Squares | Medium | Queue |
+| 126 |  |  |  | 
 | 127 | Word Ladder | Medium | Queue | 
 | 347 | Top K Frequent Elements | Medium | Queue |
 | 23 | Merge k Sorted Lists | Medium | Queue |

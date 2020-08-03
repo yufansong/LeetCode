@@ -53,8 +53,6 @@ public:
                 head = plf;
         }
             
-        if(psf && psf!= head)
-            head->next = psf;
         if(pl)
             pl->next = NULL;
         if(plf && ps)
