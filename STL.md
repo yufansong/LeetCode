@@ -14,6 +14,8 @@
     - reverse(vector.begin(),vector.end())
     - sort(vector.begin(),vector.end())
     - vector<int> vector_name(arr, arr+length)
+    - *max_element(v.begin(),v.end())
+    - *min_element(v.begin(),v.end())
 * map 
     - map.find(x) == m.end()
     - for (map< >::iterator it=m.begin();it!=m.end();it++) { (*it)}

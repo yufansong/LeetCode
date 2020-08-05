@@ -105,6 +105,7 @@ This project will record my code for code interview.
 | 450 | Delete Node in a BST | Medium | Tree |
 | 230 | Kth Smallest Element in a BST | Medium | Tree |
 | 236 | Lowest Common Ancestor of a Binary Tree | Mediu | Tree |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal |  |  |
 |  |  |  |    |
 | 17 | Letter Combinations of a Phone Number | Medium | Recursion |
 | 93 | Restore IP Addresses | Medium | Recursion |
@@ -126,6 +127,7 @@ This project will record my code for code interview.
 | 52 | N-Queens II | Hard | Recursion |
 | 37 | Sudoku Solver | Hard | Recursion |
 | 1254 | Number of Closed Islands |  |  |
+| 994 | Rotting Oranges | | |
 
 |  |  |  |    |
 | 70 | Climbing Stairs | Easy | Dp|
@@ -133,6 +135,7 @@ This project will record my code for code interview.
 | 64 | Minimum Path Sum | Medium | Dp |
 | 343 | Integer Break | Medium | Dp |
 | 72 | Edit Distance | Hard | Dp |
+| 152 | Maximum Product Subarray | Medium | Dp |
 | 279 | | | |
 | 91 | | | |
 | 62 | | | |
