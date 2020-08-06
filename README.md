@@ -135,9 +135,9 @@ This project will record my code for code interview.
 | 343 | Integer Break | Medium | Dp |
 | 72 | Edit Distance | Hard | Dp |
 | 152 | Maximum Product Subarray | Medium | Dp |
-| 279 | | | |
-| 91 | | | |
-| 62 | | | |
+| 279 | Perfect Squares | Medium | Dp|
+| 91 | Decode Ways | Medium | Dp |
+| 62 | Unique Paths | Medium | Dp |
 | 63 | | | |
 | 198 | House Robber | Medium | Dp |
 | 213 | | | |
