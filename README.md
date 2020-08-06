@@ -128,7 +128,6 @@ This project will record my code for code interview.
 | 37 | Sudoku Solver | Hard | Recursion |
 | 1254 | Number of Closed Islands |  |  |
 | 994 | Rotting Oranges | | |
-
 |  |  |  |    |
 | 70 | Climbing Stairs | Easy | Dp|
 | 120 | Triangle | Medium | Dp |
