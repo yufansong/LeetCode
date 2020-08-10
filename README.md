@@ -143,10 +143,16 @@ This project will record my code for code interview.
 | 213 | House Robber II Medium | DP |
 | 337 | House Robber III |Medium | Dp |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | Medium | Dp |
+| 121 | Best Time to Buy and Sell Stock | Easy| Dp |
+| 122 | Best Time to Buy and Sell Stock II | Easy | Dp |
+| 123 | Best Time to Buy and Sell Stock III | Hard | Dp |
 | | | | |
 | 455 | Assign Cookies | Easy | Greedy |
 | 392 | Is Subsequence | Easy | Greedy |
 | 435 | Non-overlapping Intervals | Medium | Greedy |
+| | | | |
+
+188
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
