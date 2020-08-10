@@ -5,6 +5,8 @@ using namespace std;
 class Solution {
 public:
     string addStrings(string num1, string num2) {
+        // if use following denode code, may cause overflow
+        // return to_string(stoi(num1)+stoi(num2));
         if(num1.length() < num2.length())
             swap(num1,num2);
         num1 = "0" + num1;

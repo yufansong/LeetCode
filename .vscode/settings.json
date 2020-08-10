@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "type_traits": "c",
-        "vector": "cpp"
+        "vector": "cpp",
+        "algorithm": "cpp"
     }
 }

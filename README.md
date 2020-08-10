@@ -68,7 +68,7 @@ This project will record my code for code interview.
 | 61 | Rotate List | Medium | Link |
 | 143 | Reorder List | Medium | Link |
 | 141 | Linked List Cycle | Easy | Link |
-| 415 | Add Strings |  |  |
+| 415 | Add Strings | Easy | Link |
 |  |  |  |    |
 | 20 | Valid Parentheses | Easy |  Stack  |
 | 150 | Evaluate Reverse Polish Notation | Medium |  Stack  |
@@ -147,13 +147,19 @@ This project will record my code for code interview.
 | 122 | Best Time to Buy and Sell Stock II | Easy | Dp |
 | 123 | Best Time to Buy and Sell Stock III | Hard | Dp |
 | 188 | Best Time to Buy and Sell Stock IV | Hard | Dp |
+| 416 | Partition Equal Subset Sum | Medium | DP |
+| 322 | Coin Change | Medium | Dp |
+| 377 | Combination Sum IV | Medium | Dp |
+| 474 | Ones and Zeroes | Medium | Dp |
+| 139 | Word Break | Medium | Dp |
+| 494 | Target Sum | Medium | Dp |
+| 300 | Longest Increasing Subsequence | Medium | Dp |
+| 376 | Wiggle Subsequence | Medium | Dp |
 | | | | |
 | 455 | Assign Cookies | Easy | Greedy |
 | 392 | Is Subsequence | Easy | Greedy |
 | 435 | Non-overlapping Intervals | Medium | Greedy |
 | | | | |
-
-188
 
 <h1  id="2">🚩30 Challenge ( Finished)</h2>
 
