@@ -138,9 +138,9 @@ This project will record my code for code interview.
 | 279 | Perfect Squares | Medium | Dp|
 | 91 | Decode Ways | Medium | Dp |
 | 62 | Unique Paths | Medium | Dp |
-| 63 | | | |
+| 63 | Unique Paths II | Medium | Dp |
 | 198 | House Robber | Medium | Dp |
-| 213 | | | |
+| 213 | House Robber II Medium | DP |
 | 337 | | | |
 | 309 | | | |
 | | | | |
