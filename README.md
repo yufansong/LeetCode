@@ -66,7 +66,7 @@ This project will record my code for code interview.
 | 328 | Odd Even Linked List | Medium |  Link  |
 | 445 | Add Two Numbers II | Medium |  Link  |
 | 61 | Rotate List | Medium | Link |
-| 143 | Reorder List | | |
+| 143 | Reorder List | Medium | Link |
 | 141 | Linked List Cycle | Easy | Link |
 | 415 | Add Strings |  |  |
 |  |  |  |    |
